@@ -8,4 +8,4 @@
 
 :video_camera: The Notebooks contains link to my Youtube channel were videos can be dispalied. 
 
-📔: The jupyter-book format of this work can be found at this [link](file://C:\Users\nrosi\GitHub_nrosi\Scientific_Machine_Learning\_build\html\index.html)
+📔: The jupyter-book format of this work can be found here file://C:\Users\nrosi\GitHub_nrosi\Scientific_Machine_Learning\_build\html\index.html
